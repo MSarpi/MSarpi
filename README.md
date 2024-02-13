@@ -6,9 +6,6 @@
 ## Sobre mi
 Me gradué como Analista Programador Computacional en 2019 y cuento con más de un año de experiencia en el desarrollo web, así como sólidos conocimientos teórico-prácticos en las áreas de tecnologías de la información y comunicación. Poseo habilidades para administrar y operar sistemas informáticos, así como para realizar maquetación utilizando tecnologías como ReactJs, React Bootstrap, PHP, Laravel, HTML, CSS, Bootstrap, JS, JQuery y bases de datos. Actualmente, me encuentro en búsqueda de empleo para seguir ampliando mi experiencia y asumir nuevos retos.
 
-
-## Aquí tienes algunas ideas para comenzar:
-
 - 🔭 Actualmente estoy trabajando en Mejorar mis habilidades como programador.
 - 🌱 Actualmente estoy aprendiendo PHP/Laravel con react.
 - 👯 Estoy buscando colaborar en todo tipo de proyectos.
